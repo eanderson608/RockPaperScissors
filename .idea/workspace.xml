@@ -91,10 +91,28 @@
       <file leaf-file-name="PlayFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cs407_android/rockpaperscissors/PlayFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.910314">
-              <caret line="156" column="26" selection-start-line="156" selection-start-column="26" selection-end-line="156" selection-end-column="26" />
+            <state vertical-scroll-proportion="6.5582957">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2812#2847#0" expanded="true" />
+                <element signature="e#2909#2944#0" expanded="true" />
+                <element signature="e#3286#4284#0" expanded="true" />
+                <element signature="e#3647#3671#0" expanded="true" />
+                <element signature="e#3894#3922#0" expanded="true" />
+                <element signature="e#4045#4070#0" expanded="true" />
+                <element signature="e#4283#4284#0" expanded="true" />
+                <element signature="e#4327#5329#0" expanded="true" />
+                <element signature="e#4691#4716#0" expanded="true" />
+                <element signature="e#4940#4964#0" expanded="true" />
+                <element signature="e#5087#5115#0" expanded="true" />
+                <element signature="e#5328#5329#0" expanded="true" />
+                <element signature="e#5375#6383#0" expanded="true" />
+                <element signature="e#5742#5770#0" expanded="true" />
+                <element signature="e#5997#6022#0" expanded="true" />
+                <element signature="e#6145#6169#0" expanded="true" />
+                <element signature="e#6382#6383#0" expanded="true" />
+                <element signature="e#6739#7272#0" expanded="true" />
+                <element signature="e#7271#7272#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2398,10 +2416,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cs407_android/rockpaperscissors/PlayFragment.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="4.910314">
           <caret line="156" column="26" selection-start-line="156" selection-start-column="26" selection-end-line="156" selection-end-column="26" />
+=======
+        <state vertical-scroll-proportion="6.5582957">
+          <caret line="205" column="26" selection-start-line="205" selection-start-column="26" selection-end-line="205" selection-end-column="26" />
+>>>>>>> part2
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2812#2847#0" expanded="true" />
+            <element signature="e#2909#2944#0" expanded="true" />
+            <element signature="e#3286#4284#0" expanded="true" />
+            <element signature="e#3647#3671#0" expanded="true" />
+            <element signature="e#3894#3922#0" expanded="true" />
+            <element signature="e#4045#4070#0" expanded="true" />
+            <element signature="e#4283#4284#0" expanded="true" />
+            <element signature="e#4327#5329#0" expanded="true" />
+            <element signature="e#4691#4716#0" expanded="true" />
+            <element signature="e#4940#4964#0" expanded="true" />
+            <element signature="e#5087#5115#0" expanded="true" />
+            <element signature="e#5328#5329#0" expanded="true" />
+            <element signature="e#5375#6383#0" expanded="true" />
+            <element signature="e#5742#5770#0" expanded="true" />
+            <element signature="e#5997#6022#0" expanded="true" />
+            <element signature="e#6145#6169#0" expanded="true" />
+            <element signature="e#6382#6383#0" expanded="true" />
+            <element signature="e#6739#7272#0" expanded="true" />
+            <element signature="e#7271#7272#0" expanded="true" />
           </folding>
         </state>
       </provider>
