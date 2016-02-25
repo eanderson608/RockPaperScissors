@@ -1,5 +1,6 @@
 package com.cs407_android.rockpaperscissors;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -36,9 +37,10 @@ public class PlayActivity extends AppCompatActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
-        //noinspection SimplifiableIfStatement
+        //open a settings activity if settings is selected
         if (id == R.id.action_settings) {
-            
+            Intent intent = new Intent(this, com.cs407_android.rockpaperscissors.SettingsActivity.class);
+            startActivity(intent);
             return true;
         }
 

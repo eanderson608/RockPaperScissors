@@ -43,8 +43,10 @@ public class MainActivity extends AppCompatActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
-        //noinspection SimplifiableIfStatement
+        //open a settings activity if settings is selected
         if (id == R.id.action_settings) {
+            Intent intent = new Intent(this, com.cs407_android.rockpaperscissors.SettingsActivity.class);
+            startActivity(intent);
             return true;
         }
 
